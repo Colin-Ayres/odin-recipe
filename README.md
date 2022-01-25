@@ -1,2 +1,2 @@
 # odin-recipe
-Learning about HTML to create a basic recipe site. Practicing with Git, GitHub, and basic HTML features.
+Practicing basic HTML and CSS features. This website will teach you how to prepare an egg/toast/juice breakfast.

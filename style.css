@@ -1,0 +1,42 @@
+.Top{
+    background-color: rgb(255, 174, 0);
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    padding: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.Link{
+    background-color: burlywood;
+    color: chocolate;
+    text-align: center;
+    font-size: 28px;
+    padding: 30px;
+    margin:0 auto;
+    display:block;
+}
+
+.Top.Page{
+    padding: 5px;
+    font-size: 20px;
+}
+
+.jpeg{
+    width: 600px;
+    height: auto;
+    padding: 10px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.Caption{
+    text-align: center;
+}
+
+body{
+    background: cornsilk;
+}
